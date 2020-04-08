@@ -34,7 +34,7 @@ This his happened to me once with the Nabaztag ... once their provider left the 
 ![Top](Top.jpeg)
 ![Back](Back.jpeg)
 ![Inside](Inside.jpeg)
-![UI](UI.png)
+![UI](UI.jpg)
 
 #### References:
 https://randomnerdtutorials.com/esp8266-web-server-spiffs-nodemcu/
