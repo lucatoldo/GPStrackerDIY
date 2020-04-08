@@ -1,7 +1,7 @@
 # Content
 
 The software consists of the following files:
-- gpstracker.ino ( connects the ESP8266 to WIFI to serve the UI, drives the NEO GPS receiver, delivers the UI, updates track.gpx )
+- GPStrackerDIY.ino ( connects the ESP8266 to WIFI to serve the UI, drives the NEO GPS receiver, delivers the UI, updates track.gpx ) before using it, you need to configure it with your own SSID and password.
 - data / index.html ( the UI entry point )
 - data / leaflet.js 
 - data / leaflet.js.map
